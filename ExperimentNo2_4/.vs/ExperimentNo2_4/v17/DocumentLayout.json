@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet Projects\\ExperimentNo2_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|d:\\dotnet projects\\experimentno2_4\\resume.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|solutionrelative:resume.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|d:\\dotnet projects\\experimentno2_4\\adduser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|solutionrelative:adduser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|d:\\dotnet projects\\experimentno2_4\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|solutionrelative:profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|d:\\dotnet projects\\experimentno2_4\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|d:\\dotnet projects\\experimentno2_4\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CB402A80-BA3B-4E08-BDA2-7369768B9B7F}|ExperimentNo2_4.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\DotNet Projects\\ExperimentNo2_4\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\DotNet Projects\\ExperimentNo2_4\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T17:49:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUser.aspx",
+              "DocumentMoniker": "D:\\DotNet Projects\\ExperimentNo2_4\\AddUser.aspx",
+              "RelativeDocumentMoniker": "AddUser.aspx",
+              "ToolTip": "D:\\DotNet Projects\\ExperimentNo2_4\\AddUser.aspx",
+              "RelativeToolTip": "AddUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T17:48:22.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfilePage.aspx",
+              "DocumentMoniker": "D:\\DotNet Projects\\ExperimentNo2_4\\ProfilePage.aspx",
+              "RelativeDocumentMoniker": "ProfilePage.aspx",
+              "ToolTip": "D:\\DotNet Projects\\ExperimentNo2_4\\ProfilePage.aspx",
+              "RelativeToolTip": "ProfilePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T17:48:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resume.aspx",
+              "DocumentMoniker": "D:\\DotNet Projects\\ExperimentNo2_4\\Resume.aspx",
+              "RelativeDocumentMoniker": "Resume.aspx",
+              "ToolTip": "D:\\DotNet Projects\\ExperimentNo2_4\\Resume.aspx",
+              "RelativeToolTip": "Resume.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T17:47:46.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\DotNet Projects\\ExperimentNo2_4\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "D:\\DotNet Projects\\ExperimentNo2_4\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T17:46:41.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

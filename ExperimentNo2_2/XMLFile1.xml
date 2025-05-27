@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/kingfisher.jpeg</ImageUrl>
+		<NavigateUrl>https://www.britannica.com/animal/kingfisher-bird</NavigateUrl>
+		<AlternateText>My Birds</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Meera</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/parrot.jpeg</ImageUrl>
+		<NavigateUrl>https://www.britannica.com/animal/parrot</NavigateUrl>
+		<AlternateText>My Birds</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Meera</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Images/sparrow.jpg</ImageUrl>
+		<NavigateUrl>https://www.britannica.com/animal/sparrow</NavigateUrl>
+		<AlternateText>My Birds</AlternateText>
+		<Impressions>50</Impressions>
+		<Keyword>Meera</Keyword>
+	</Ad>
+
+</Advertisements>
